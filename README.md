@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I’m Aaditya Mishra 👋
 
-<!--
-**Aadi8869/Aadi8869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Second-year BCA Student** from *Lucknow, Uttar Pradesh*  
+💡 Driven by curiosity and passion for technology  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I’m currently building my foundation in **Cybersecurity**, exploring the fascinating world of **Artificial Intelligence & Machine Learning**, and sharpening my skills to become a **Frontend Developer**.
+
+I believe in continuous learning and love working on projects that solve **real-world problems using technology**. Whether it’s securing digital assets, creating intelligent AI solutions, or building engaging web interfaces — I enjoy every challenge that helps me grow.
+
+---
+
+## 🔧 Skills I’m Developing
+- 🧠 **AI & ML Fundamentals**
+- 🌐 **Frontend Development** (HTML, CSS, JavaScript, and beyond)
+
+---
+
+## 📫 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-mishra-77a01b287)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Aadi8869)
+
+---
+
+⭐ *"Always open to learning, connecting with like-minded people, and exploring opportunities to grow in the tech world."*  
